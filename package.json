@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MoonTahoe/ski-day-counter-redux.git"
+    "url": "git+https://github.com/ysites/learningRedux.git"
   },
   "keywords": [
     "activity",
@@ -19,12 +19,12 @@
     "tutorial",
     "redux"
   ],
-  "author": "Alex Banks <alex@moonhighway.com> (http://www.moonhighway.com)",
+  "author": "Yadiel Cabrera <ysites@gmail.com> (http://yadielcabrera.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MoonTahoe/ski-day-counter-redux/issues"
+    "url": "https://github.com/ysites/learningRedux/issues"
   },
-  "homepage": "https://github.com/MoonTahoe/ski-day-counter-redux#readme",
+  "homepage": "https://github.com/ysites/learningRedux#readme",
   "dependencies": {
     "cors": "^2.8.1",
     "express": "^4.14.0",
